@@ -1,0 +1,13 @@
+{
+  "name": "doc-check",
+  "owner": {
+    "name": "Jacob Samuelson"
+  },
+  "plugins": [
+    {
+      "name": "doc-check",
+      "source": "./",
+      "description": "A fresh-reader check for docs: after each round of edits, a reviewer agent reads the whole doc cold, and the fixes land before you see it."
+    }
+  ]
+}

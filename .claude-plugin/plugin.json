@@ -1,0 +1,8 @@
+{
+  "name": "doc-check",
+  "version": "0.2.0",
+  "description": "A fresh-reader check for documents, pages and decks: after each round of edits, a reviewer agent reads the whole thing cold for story, consistency, references, facts and your writing rules, and the fixes land before you see it.",
+  "author": {
+    "name": "Jacob Samuelson"
+  }
+}
