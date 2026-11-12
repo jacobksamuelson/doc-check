@@ -51,7 +51,9 @@ It also asked before touching my own heading for a section.
 
 ## Does it work?
 
-I wrote evals: four test docs (three with planted problems, one clean), each checked by a fresh Claude twice, with 60 pass/fail checks in all.
+On its first day I ran it 15 times on 7 real docs, and every pass caught something worth fixing.
+
+I also wrote evals: four test docs (three with planted problems, one clean), each checked by a fresh Claude twice, with 60 pass/fail checks in all.
 
 | Version | Passed | What went wrong |
 |---|---|---|
