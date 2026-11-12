@@ -10,7 +10,7 @@ I caught all of it; Claude didn't. The author can't see drift, because it reads 
 
 ## How it works
 
-![After a round of edits, Claude reads the whole doc, hands it to a separate reviewer, handles every finding and gives a short report](docs/how-it-works.svg)
+![One round: you leave comments, Claude addresses them, then a fresh reviewer reads the whole doc and Claude fixes what the edits broke, or asks, and you get the doc and a short report](docs/how-it-works.svg)
 
 The reviewer gets the doc, who it's for, your writing rules (from your CLAUDE.md, memory and the chat) and the sources the facts came from. It also gets what's settled (your own words and the decisions you've made, which it can question but not cut) and which claims Claude checked against a source and which it didn't. It does not get Claude's reasoning.
 
